@@ -1,0 +1,40 @@
+BMPS Edu Center
+	Color
+	Light Blue #2563eb
+	Dark Blue #1e3a8a
+	Black ##0c0a09
+	White #f5f5f4
+
+Header
+Section Hero
+Feature News
+Latest News
+Follow Us
+Advertisement
+Trading News
+TAGS
+
+
+Header
+- 3 Menus
+	First Menu
+	- Current Date
+	- Advertise
+	- Contat
+
+	- Twitter 
+	- Facebook
+	- Instagram
+	- Google+
+	- Youtube
+
+	Second Menu
+	- Logo
+	- Advertisment
+
+	Third Menu
+	- Home
+	- Category
+	- Single News
+	- Contact
+	- Search Box
